@@ -1,2 +1,2 @@
 # odin-recipes
-This project demonstrates basic skills in html.
+This project demonstrates basic skills in html and css.
